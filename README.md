@@ -29,10 +29,10 @@ I built an automated workflow using AI and automation tools to evaluate and rank
 ## Screenshots
 
 ### 🔹 AI Workflow Automation (Make)
-![Workflow](LINK_WORKFLOW)
+https://github.com/Alvitofazl/ai-recuritment-system/blob/main/workflow.png
 
 ### 🔹 Candidate Data Processing (Google Sheets)
-![Candidate(https://raw.githubusercontent.com/alvitofazl/ai-recruitment-system/main/candidate-data.png)
+ https://github.com/Alvitofazl/ai-recuritment-system/blob/main/candidate-data.png
 
 ### 🔹 AI Candidate Evaluation Result
-![Result](LINK_RESULT)
+https://github.com/Alvitofazl/ai-recuritment-system/blob/main/evaluation-result.png
