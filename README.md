@@ -32,7 +32,7 @@ I built an automated workflow using AI and automation tools to evaluate and rank
 ![Workflow](LINK_WORKFLOW)
 
 ### 🔹 Candidate Data Processing (Google Sheets)
-![Data](LINK_DATA)
+![Candidate(https://raw.githubusercontent.com/alvitofazl/ai-recruitment-system/main/candidate-data.png)
 
 ### 🔹 AI Candidate Evaluation Result
 ![Result](LINK_RESULT)
