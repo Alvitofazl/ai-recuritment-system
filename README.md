@@ -29,10 +29,12 @@ I built an automated workflow using AI and automation tools to evaluate and rank
 ## Screenshots
 
 ### 🔹 AI Workflow Automation (Make)
-https://github.com/Alvitofazl/ai-recuritment-system/blob/main/workflow.png
+![Workflow](https://github.com/user-attachments/assets/83458cd7-e154-4c33-b851-aebbfce7adb7)
 
 ### 🔹 Candidate Data Processing (Google Sheets)
- https://github.com/Alvitofazl/ai-recuritment-system/blob/main/candidate-data.png
+![Data](https://github.com/user-attachments/assets/6f30c4ed-2d01-4156-a87a-e53a86ff28e0)
+
 
 ### 🔹 AI Candidate Evaluation Result
-https://github.com/Alvitofazl/ai-recuritment-system/blob/main/evaluation-result.png
+ ![WhatsApp Image 2026-04-07 at 14 59 53](https://github.com/user-attachments/assets/9e98a570-1cf7-48d0-8d02-21197b8ed188)
+
