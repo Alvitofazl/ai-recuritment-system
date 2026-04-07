@@ -27,4 +27,12 @@ I built an automated workflow using AI and automation tools to evaluate and rank
 - Structured candidate evaluation  
 
 ## Screenshots
-(Add screenshots here)
+
+### 🔹 AI Workflow Automation (Make)
+![Workflow](LINK_WORKFLOW)
+
+### 🔹 Candidate Data Processing (Google Sheets)
+![Data](LINK_DATA)
+
+### 🔹 AI Candidate Evaluation Result
+![Result](LINK_RESULT)
